@@ -1,7 +1,7 @@
 import { View, Text } from "react-native";
 
 
-export function Signin() {
+export function SignIn() {
   return (
     <View>
       <Text>Signin</Text>
